@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Eslam Sayed</h1>
+<h1 align="center">Hi , I'm Eslam Sayed</h1>
 <h3 align="center">A passionate Back End Developer | Aspiring Software Engineer</h3>
 
 ---
 
 🌱 I’m currently Reading / Learning:  
-- 📖 Data Intensive Applications
-- 🌐 Distributed Systems   
-- ☁️ Docker & Kubernetes  
+-  Data Intensive Applications
+-  Distributed Systems   
+-  Docker & Kubernetes  
 
-💼 Currently building:  
+ Currently building:  
 - 🔧 [InSpace](https://github.com/callmeess/InSpace-back) - Utilizing CUAs for UITesting -  Graduation Project 
 - 🔧 [Kubelink]([htt](https://github.com/callmeess/KubeLink)) - A Url shortner in microservice Architecture for proof of concept using .NET and Go 
 - 🔧 [ELearningPlatform](https://github.com/callmeess/ELearningPlatform) – A full-featured learning management system with backend in .NET Core and PostgreSQL
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -30,23 +30,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<!-- <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=callmeess&show_icons=true&theme=tokyonight" alt="Eslam's GitHub Stats"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeess&layout=compact&theme=tokyonight"/>
-<!-- </p> -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=callmeess&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="Eslam's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeess&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/eslam-sayed-9919161b5/)
 
