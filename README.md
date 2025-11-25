@@ -10,7 +10,7 @@
 
  Currently building:  
 - 🔧 [InSpace](https://github.com/callmeess/InSpace-back) - Utilizing CUAs for UITesting -  Graduation Project 
-- 🔧 [Kubelink]([htt](https://github.com/callmeess/KubeLink)) - A Url shortner in microservice Architecture for proof of concept using .NET and Go 
+- 🔧 [Kubelink](https://github.com/callmeess/KubeLink) - A Url shortner in microservice Architecture for proof of concept using .NET and Go 
 - 🔧 [ELearningPlatform](https://github.com/callmeess/ELearningPlatform) – A full-featured learning management system with backend in .NET Core and PostgreSQL
 ---
 
