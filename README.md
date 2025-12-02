@@ -29,13 +29,3 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
-
----
-
-### Contact Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/eslam-sayed-9919161b5/)
-
----
-
